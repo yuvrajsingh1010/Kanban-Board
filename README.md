@@ -14,8 +14,6 @@ Ensure you have the following installed:
 1. **Clone the repository**:
    `git clone https://github.com/yuvrajsingh1010/Kanban-Board.git`
 
-Navigate to the project directory:
-`cd kanban-board-app`
 
 Install the project dependencies:
 
